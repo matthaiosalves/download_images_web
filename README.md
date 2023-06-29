@@ -19,5 +19,3 @@ Este projeto é uma demonstração de como baixar imagens de uma API usando URLs
 8. As imagens serão salvas na pasta especificada em `$downloadPath`.
 9. Os nomes dos arquivos repetidos, se houver, serão exibidos no console.
 
-Certifique-se de substituir os placeholders (como "Nome do Projeto") pelas informações corretas do seu projeto.
-
